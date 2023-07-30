@@ -54,8 +54,40 @@ nav ul li a:hover{
 .leftSection{
     margin: 244px 0;
     width: 37%;
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
+
+.resume{
+    font-style: bold;
+    padding: 10px;
+    font-size: 1rem;
+    background: #331D2C;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.resume:hover{
+    background: white;
+    color: #331D2C;
+}
+.github{
+    padding: 10px;
+    margin-left: 15px;
+    font-size: 1rem;
+    font-style: bold;
+    color: #000000;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.github:hover{
+    background: #331D2C;
+    color: white;
+}
+
 
 .rightSection img{
     margin: 0 30px 0 90px;
