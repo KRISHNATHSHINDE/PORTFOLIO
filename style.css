@@ -96,3 +96,10 @@ nav ul li a:hover{
 .offwhite{
     color: #d65b9b;
 }
+
+/* second section */
+.projects{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
